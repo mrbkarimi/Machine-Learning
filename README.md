@@ -1,7 +1,10 @@
 Machin Learning utilizing Random Forest to predict bearing displacement under Pulse-like ground motions.
 
-since GUI has a size larger than 25MB, it can be downloaded from the following link: https://drive.google.com/file/d/1jNZ39ddufnwEMs8iCXlv6ptEbFbfpMoc/view?usp=sharing .
+since GUI has a size larger than 25MB, it can be downloaded from the following link: https://drive.google.com/drive/folders/1jD_GsiRHE2U2JgixnIssC5BZN3ylnL0J?usp=sharing
+
 Run "GUI_execute.py" and fill out the input variables.
+
+Following are the parameters required to fill in as variables: 
 
 PGA: Peak Ground Acceleration (PGA) represents the maximum ground acceleration during an earthquake event.
 
