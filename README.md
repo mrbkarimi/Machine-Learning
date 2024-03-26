@@ -2,6 +2,8 @@ Machin Learning utilizing Random Forest to predict bearing displacement under Pu
 
 since GUI has a size larger than 25MB, it can be downloaded from the following link: https://drive.google.com/drive/folders/1jD_GsiRHE2U2JgixnIssC5BZN3ylnL0J?usp=sharing
 
+GUI bearing displacement prediction utilizing ensemble modeling: https://drive.google.com/drive/folders/11vVdtiTdA9xbLvDQzwQZA2xPjgBNugYV?usp=sharing
+
 Run "GUI_execute.py" and fill out the input variables.
 
 Following are the parameters required to fill in as variables: 
